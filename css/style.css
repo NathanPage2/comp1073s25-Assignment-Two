@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+   background-color:#ffb8fa;
+   /*Aligning all text to be center and have a background color of that */
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    /*Setting h1 font */
+}
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     /*Setting h3 font */
+}
+form{
+    background-color: #baffcd;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+     /*Highlighting the form to be that green color, have a different font and increase the size of the font */
+}
+button{
+    background-color: darkorange;
+    size: 20px;
+     /*Button is orange and bigger than normal */
+}
+div{
+    background-color: gold;
+    font-size: 25px;
+     /*When the user hits the button they see the text display hightlighted gold and big to confirm there order */
+}
